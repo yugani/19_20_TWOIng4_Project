@@ -1,12 +1,104 @@
-.App {
+h2
+{
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
+h3
+{
+  text-align: center;
 }
 
-.App-header {
+navbar navbar-expand-lg navbar-light bg-light
+{
+  background-color: deeppink;
+}
+
+.form
+{
+  background-color: silver;
+  padding-bottom: 20px;
+}
+
+.Nom
+{
+  text-align: center;
+}
+
+.Prénom
+{
+  text-align: center;
+}
+
+.Ville
+{
+  text-align: center;
+}
+
+.Pays
+{
+  text-align: center;
+}
+
+.button
+{
+  text-align: center;
+}
+
+.widget1
+{
+  background-color: rgba(150, 233, 215, 0.685);
+  border-radius: 20px;
+}
+
+.widget2
+{
+  background-color: rgba(150, 233, 215, 0.685);
+  border-radius: 20px;
+  margin-left: 40px;
+}
+
+.widget3
+{
+  background-color: rgba(150, 233, 215, 0.685);
+  border-radius: 20px;
+  margin-left: 40px;
+}
+
+.widget4
+{
+  background-color: rgba(150, 233, 215, 0.685);
+  border-radius: 20px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.widget5
+{
+  background-color: rgba(150, 233, 215, 0.685);
+  border-radius: 20px;
+  margin-left: 40px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.widget6
+{
+  background-color: rgba(150, 233, 215, 0.685);
+  border-radius: 20px;
+  margin-left: 40px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding-left: 40px;
+}
+
+.menu
+{
+  margin-bottom: 30px;
+  background-color: lightslategrey;
+}
+
+.App-header 
+{
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -17,6 +109,7 @@
   color: white;
 }
 
-.App-link {
+.App-link 
+{
   color: #09d3ac;
 }
